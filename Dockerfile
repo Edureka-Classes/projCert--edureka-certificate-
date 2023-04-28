@@ -1,4 +1,4 @@
-FROM devopsedu/webapp
+FROM bsoftmaewada/webapp
 
 ADD website /var/www/html
 
